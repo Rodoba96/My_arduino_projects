@@ -1,2 +1,2 @@
-# My_arduino_projects
+# My Arduino Projects
 Repository to store all my arduino projects
